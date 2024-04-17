@@ -1,0 +1,10 @@
+let colors ="Black";
+console.log (colors);
+colors ="pink";
+console.log (colors);
+colors ="red";
+console.log (colors);
+colors ="yellow";
+console.log (colors);
+colors ="blue green purple";
+console.log (colors);
